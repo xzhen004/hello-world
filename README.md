@@ -1,5 +1,5 @@
 # hello-world
-My first github repository
+My first github
 
 Even when I create Github years ago.
 This is my first Github project. 
